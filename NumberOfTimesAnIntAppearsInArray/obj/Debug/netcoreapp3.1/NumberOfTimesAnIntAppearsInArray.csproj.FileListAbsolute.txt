@@ -1,0 +1,11 @@
+C:\Users\Blair\source\repos\NumberOfTimesAnIntAppearsInArray\NumberOfTimesAnIntAppearsInArray\bin\Debug\netcoreapp3.1\NumberOfTimesAnIntAppearsInArray.exe
+C:\Users\Blair\source\repos\NumberOfTimesAnIntAppearsInArray\NumberOfTimesAnIntAppearsInArray\bin\Debug\netcoreapp3.1\NumberOfTimesAnIntAppearsInArray.deps.json
+C:\Users\Blair\source\repos\NumberOfTimesAnIntAppearsInArray\NumberOfTimesAnIntAppearsInArray\bin\Debug\netcoreapp3.1\NumberOfTimesAnIntAppearsInArray.runtimeconfig.json
+C:\Users\Blair\source\repos\NumberOfTimesAnIntAppearsInArray\NumberOfTimesAnIntAppearsInArray\bin\Debug\netcoreapp3.1\NumberOfTimesAnIntAppearsInArray.runtimeconfig.dev.json
+C:\Users\Blair\source\repos\NumberOfTimesAnIntAppearsInArray\NumberOfTimesAnIntAppearsInArray\bin\Debug\netcoreapp3.1\NumberOfTimesAnIntAppearsInArray.dll
+C:\Users\Blair\source\repos\NumberOfTimesAnIntAppearsInArray\NumberOfTimesAnIntAppearsInArray\bin\Debug\netcoreapp3.1\NumberOfTimesAnIntAppearsInArray.pdb
+C:\Users\Blair\source\repos\NumberOfTimesAnIntAppearsInArray\NumberOfTimesAnIntAppearsInArray\obj\Debug\netcoreapp3.1\NumberOfTimesAnIntAppearsInArray.csprojAssemblyReference.cache
+C:\Users\Blair\source\repos\NumberOfTimesAnIntAppearsInArray\NumberOfTimesAnIntAppearsInArray\obj\Debug\netcoreapp3.1\NumberOfTimesAnIntAppearsInArray.AssemblyInfoInputs.cache
+C:\Users\Blair\source\repos\NumberOfTimesAnIntAppearsInArray\NumberOfTimesAnIntAppearsInArray\obj\Debug\netcoreapp3.1\NumberOfTimesAnIntAppearsInArray.AssemblyInfo.cs
+C:\Users\Blair\source\repos\NumberOfTimesAnIntAppearsInArray\NumberOfTimesAnIntAppearsInArray\obj\Debug\netcoreapp3.1\NumberOfTimesAnIntAppearsInArray.dll
+C:\Users\Blair\source\repos\NumberOfTimesAnIntAppearsInArray\NumberOfTimesAnIntAppearsInArray\obj\Debug\netcoreapp3.1\NumberOfTimesAnIntAppearsInArray.pdb
